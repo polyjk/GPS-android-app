@@ -1,0 +1,22 @@
+{
+  "destination_addresses" : [ "601 Bertrand Dr, Lafayette, LA 70506, USA" ],
+  "origin_addresses" : [ "533 Jefferson St, Lafayette, LA 70501, USA" ],
+  "rows" : [
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "3.6 km",
+            "value" : 3600
+          },
+          "duration" : {
+            "text" : "8 mins",
+            "value" : 476
+          },
+          "status" : "OK"
+        }
+      ]
+    }
+  ],
+  "status" : "OK"
+}

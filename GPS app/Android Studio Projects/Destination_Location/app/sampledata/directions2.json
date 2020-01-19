@@ -1,0 +1,85 @@
+{
+  "geocoded_waypoints" : [
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJ_x2QRhWcJIYRSV6_yHhLQrw",
+      "types" : [ "street_address" ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJ_x2QRhWcJIYRSV6_yHhLQrw",
+      "types" : [ "street_address" ]
+    }
+  ],
+  "routes" : [
+    {
+      "bounds" : {
+        "northeast" : {
+          "lat" : 30.2135084,
+          "lng" : -92.04747639999999
+        },
+        "southwest" : {
+          "lat" : 30.2135084,
+          "lng" : -92.04747639999999
+        }
+      },
+      "copyrights" : "Map data ©2018 Google",
+      "legs" : [
+        {
+          "distance" : {
+            "text" : "1 ft",
+            "value" : 0
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 0
+          },
+          "end_address" : "601 Bertrand Dr, Lafayette, LA 70506, USA",
+          "end_location" : {
+            "lat" : 30.2135084,
+            "lng" : -92.04747639999999
+          },
+          "start_address" : "601 Bertrand Dr, Lafayette, LA 70506, USA",
+          "start_location" : {
+            "lat" : 30.2135084,
+            "lng" : -92.04747639999999
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "1 ft",
+                "value" : 0
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 0
+              },
+              "end_location" : {
+                "lat" : 30.2135084,
+                "lng" : -92.04747639999999
+              },
+              "html_instructions" : "Head",
+              "polyline" : {
+                "points" : "malwDv_ypP"
+              },
+              "start_location" : {
+                "lat" : 30.2135084,
+                "lng" : -92.04747639999999
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        }
+      ],
+      "overview_polyline" : {
+        "points" : "malwDv_ypP"
+      },
+      "summary" : "",
+      "warnings" : [],
+      "waypoint_order" : []
+    }
+  ],
+  "status" : "OK"
+}

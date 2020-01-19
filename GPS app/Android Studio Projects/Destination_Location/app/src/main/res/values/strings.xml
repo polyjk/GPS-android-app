@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Destination_Location</string>
+    <string name="autoCompleteHint">enter places, peoples...</string>
+</resources>
