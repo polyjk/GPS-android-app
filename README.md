@@ -5,11 +5,9 @@ A mobile app which uses location data of the app’s users and leverages the dat
 
 Bulk of code is in:
 
-1) Android Studio Java
-GPS app\Android Studio Projects\Destination_Location\app\src\main\java\com\example\jjnjs\destination_location
+1) GPS app\Android Studio Projects\Destination_Location\app\src\main\java\com\example\jjnjs\destination_location
 
-2) Database to hold user information and location data
-GPS app\Database\GPSApp
+2) GPS app\Database\GPSApp
 
 
 
