@@ -1,0 +1,40 @@
+{
+  "destination_addresses" : [ "601 Bertrand Dr, Lafayette, LA 70506, USA" ],
+  "origin_addresses" : [
+    "Westwood Apts, Lafayette, LA 70506, USA",
+    "533 Jefferson St, Lafayette, LA 70501, USA"
+  ],
+  "rows" : [
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "1.1 km",
+            "value" : 1082
+          },
+          "duration" : {
+            "text" : "4 mins",
+            "value" : 211
+          },
+          "status" : "OK"
+        }
+      ]
+    },
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "3.6 km",
+            "value" : 3600
+          },
+          "duration" : {
+            "text" : "8 mins",
+            "value" : 476
+          },
+          "status" : "OK"
+        }
+      ]
+    }
+  ],
+  "status" : "OK"
+}

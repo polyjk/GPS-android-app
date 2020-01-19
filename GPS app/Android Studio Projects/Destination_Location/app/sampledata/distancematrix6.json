@@ -1,0 +1,88 @@
+{
+  "destination_addresses" : [ "601 Bertrand Dr, Lafayette, LA 70506, USA" ],
+  "origin_addresses" : [
+    "533 Jefferson St, Lafayette, LA 70501, USA",
+    "104 Holden Ave, Lafayette, LA 70506, USA",
+    "130 Myrtle St, Lafayette, LA 70503, USA",
+    "2035 Johnston St, Lafayette, LA 70503, USA",
+    "430-498 Boucher Dr, Lafayette, LA 70503, USA"
+  ],
+  "rows" : [
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "3.6 km",
+            "value" : 3600
+          },
+          "duration" : {
+            "text" : "8 mins",
+            "value" : 476
+          },
+          "status" : "OK"
+        }
+      ]
+    },
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "1.4 km",
+            "value" : 1406
+          },
+          "duration" : {
+            "text" : "5 mins",
+            "value" : 271
+          },
+          "status" : "OK"
+        }
+      ]
+    },
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "1.8 km",
+            "value" : 1787
+          },
+          "duration" : {
+            "text" : "5 mins",
+            "value" : 271
+          },
+          "status" : "OK"
+        }
+      ]
+    },
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "2.3 km",
+            "value" : 2259
+          },
+          "duration" : {
+            "text" : "4 mins",
+            "value" : 268
+          },
+          "status" : "OK"
+        }
+      ]
+    },
+    {
+      "elements" : [
+        {
+          "distance" : {
+            "text" : "4.0 km",
+            "value" : 3965
+          },
+          "duration" : {
+            "text" : "9 mins",
+            "value" : 521
+          },
+          "status" : "OK"
+        }
+      ]
+    }
+  ],
+  "status" : "OK"
+}
